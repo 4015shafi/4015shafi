@@ -22,4 +22,6 @@ Here are some of the projects I've worked on:
 ## Connect with Me 🌐
 
 - [LinkedIn](https://www.linkedin.com/in/mothammed-shafi-18766314b)
+- Md.Shafi9052@gmail.com
+- 9398004015
 
