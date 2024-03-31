@@ -23,8 +23,3 @@ Here are some of the projects I've worked on:
 
 - [LinkedIn](https://www.linkedin.com/in/mothammed-shafi-18766314b)
 
-<!-- GitHub Stats -->
-## GitHub Stats 📊
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-
